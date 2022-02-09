@@ -1,7 +1,7 @@
 # Image captioning
 Image Captioning with Conditioned LSTM Generators using flickr
-Tasks:
 ```
+Tasks:
 Create matrices of image representations using an off-the-shelf image encoder.
 Read and preprocess the image captions.
 Write a generator function that returns one training instance (input/output sequence pair) at a time.
